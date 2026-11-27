@@ -1,7 +1,10 @@
-# Subsecuencia común más larga (LCS): recursiva, Hirschberg y programación dinámica
+# Actividad 1. Diseño, análisis y comparación de algoritmos: la subsecuencia común más larga (LCS)
 
-Actividad 1 de la asignatura **Diseño Avanzado de Algoritmos**.
-Autor: Diego Acosta Román
+**Asignatura:** Diseño Avanzado de Algoritmos
+**Autor:** Diego Acosta Román
+
+Implementación y comparación de tres versiones del problema de la LCS: recursiva directa,
+Hirschberg (divide y conquista) y programación dinámica tabular.
 
 ## 1. Descripción del problema
 
